@@ -5,7 +5,7 @@
 * I help translate open source projects to Filipino. Examples being [Revolt](https://github.com/revoltchat) and [SuperTuxKart](https://supertuxkart.net/fil/Main_Page)
 * I use [Artix](https://artixlinux.org) BTW (runit <3)
 * Owner of the [SuperTuxKart Revolt Server](https://rvlt.gg/1Rw7Nevx)
-* Contributor of the [Frankfurt STK Wiki](https://stk.kimden.online/wiki) (a wiki dedicated to SuperTuxKart related things). *The link is currently down as of 4/20/23 (i blame kimden)*
+* Contributor of the [Frankfurt STK Wiki](https://stk.kimden.online/wiki) (a wiki dedicated to SuperTuxKart related things).
 
 ### Socials
 
