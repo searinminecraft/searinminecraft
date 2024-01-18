@@ -8,6 +8,7 @@
 * Currently trying out [Fedora](https://fedoraproject.org) (of course has systemd)
 * Owner of the [SuperTuxKart Revolt Server](https://app.revolt.chat/invite/01GVQJVVFM233EHBV03K7B3HF5)
 * Contributor of the [Frankfurt STK Wiki](https://stk.kimden.online/wiki) (a wiki dedicated to SuperTuxKart related things, still broken as heck)
+* I also code a Discord bot, which is a port of [linaSTK in discord.py](https://github.com/searinminecraft/lina-discord)
 
 ### Socials
 
