@@ -13,5 +13,5 @@
 ### Socials
 
 * [YouTube](https://youtube.com/@SearInMinecraft)
-
+* [Codeberg](https://codeberg.org/kita), the one I'm most proud of
 ###### if you're reading this, im letting you know that this readme is wip
