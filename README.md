@@ -1,3 +1,12 @@
+# This account is mostly abandoned now.
+
+This account will no longer be used for hosting source code, due to concerns of GitHub Copilot. You can read more at [the No GitHub page](https://nogithub.codeberg.page). I can be seen on [Codeberg](https://codeberg.org/kita), [Disroot Forgejo](https://git.disroot.org/kita) and [KaKi's git](https://git.kaki87.net/kita)
+
+That does not mean this account won't be used anymore though, it will still be used for reporting issues to GitHub repositories, and maybe even contribute to some projects. But I kindly ask you to not upload my work on Codeberg to GitHub, it can make me happy.
+
+If you want to see the original profile, you can look at the raw contents (commented out at the bottom)
+
+<!--
 ### Hi there!! I'm searinminecraft!
 
 * A random guy that plays Roblox, SuperTuxKart, and Minecraft.
@@ -14,4 +23,4 @@
 
 * [YouTube](https://youtube.com/@SearInMinecraft)
 * [Codeberg](https://codeberg.org/kita), the one I'm most proud of
-###### if you're reading this, im letting you know that this readme is wip
+-->
