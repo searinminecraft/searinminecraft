@@ -1,6 +1,6 @@
 # This account is mostly abandoned now.
 
-This account will no longer be used for hosting source code, due to concerns of GitHub Copilot. You can read more at [the No GitHub page](https://nogithub.codeberg.page). I can be seen on [Codeberg](https://codeberg.org/kita), [Disroot Forgejo](https://git.disroot.org/kita) and [KaKi's git](https://git.kaki87.net/kita)
+This account will no longer be used for hosting source code, due to concerns of GitHub Copilot. You can read more at [the No GitHub page](https://nogithub.codeberg.page). I can be seen on [Codeberg](https://codeberg.org/kita) and other Forgejo instances, though most are for preventing namesquatting.
 
 That does not mean this account won't be used anymore though, it will still be used for reporting issues to GitHub repositories, and maybe even contribute to some projects. But I kindly ask you to not upload my work on Codeberg to GitHub, it can make me happy.
 
